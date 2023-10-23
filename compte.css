@@ -1,0 +1,11 @@
+.banner{
+    width: 100%;
+    height: auto;
+    min-height: 700px;
+    background-image: url('Faynara_banner_official.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 200px 0 100px 0;
+}

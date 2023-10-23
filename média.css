@@ -1,0 +1,32 @@
+@media (max-width: 768px) { 
+    .footer{
+        text-align: center;
+    }
+    .section5{
+        display: none;
+    }
+    /* .footer.ico{
+        position: relative;
+        bottom: 100px;
+    } */
+    .lien{
+        font-size: 11px;
+        position: relative;
+        right: 32px;
+       
+        top: -14px;
+    }
+ }
+ @media (max-width:992px) {
+    .section5{
+        display: none;
+    }
+    .section6 .main-btn{
+        width: 230px;
+    }
+    .bou{
+        position: relative;
+        top: 200px;
+    }
+    
+ }

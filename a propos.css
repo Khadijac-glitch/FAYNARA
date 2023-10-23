@@ -1,0 +1,19 @@
+.banner2{
+    width: 100%;
+    height: auto;
+    min-height:600px;
+    background-image: url('Faynara_banner2.webp');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding:100px 0 100px 0;
+}
+.section2 h3{
+  font-size: 36px;
+}
+.section6{
+    background: #8f7560;
+    color: white;
+    border-radius: 100px;
+}
